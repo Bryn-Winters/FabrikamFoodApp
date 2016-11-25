@@ -1,0 +1,2 @@
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\FabrikamFoodApp.UWP.csproj;x86
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.csproj;neutral

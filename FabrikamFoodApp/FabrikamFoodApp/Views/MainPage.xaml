@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FabrikamFoodApp"
+             x:Class="FabrikamFoodApp.MainPage"
+             Title="StackLayout Demo">
+  <ContentPage.Content>
+    <StackLayout Spacing="0" x:Name="layout">
+      <Button Text="Place a Review" VerticalOptions="Start"
+        HorizontalOptions="FillAndExpand" Clicked="OnButtonClicked" />
+      <!--Button Text="Edit/Delete a Review" VerticalOptions="Start"
+        HorizontalOptions="FillAndExpand" Clicked="OnChangeButtonClicked" /-->
+      <Button Text="Map" VerticalOptions="Start"
+        HorizontalOptions="FillAndExpand" Clicked="MapButtonClicked" />
+      <!--fragment xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/map"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          class="com.google.android.gms.maps.MapFragment" /-->
+      <!--BoxView Color="#FF001F" VerticalOptions="FillAndExpand"
+  HorizontalOptions="FillAndExpand" /-->
+      <Button Text="See Your Reviews" TextColor="White" BackgroundColor="Blue" Clicked="ViewReviews_Clicked" />
+      <BoxView HeightRequest="75" Color="#1491CC" VerticalOptions="End"
+  HorizontalOptions="FillAndExpand" />
+      <Grid>
+        <Grid.RowDefinitions>
+          <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="50*" />
+          <ColumnDefinition Width="50*" />
+          <ColumnDefinition Width="50*" />
+          <ColumnDefinition Width="30*" />
+          <ColumnDefinition Width="40*" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Text="Date-Time"/>
+        <Label Grid.Column="1" Text="Meal"/>
+        <Label Grid.Column="2" Text="Rating"/>
+      </Grid>
+      <ListView x:Name="ReviewsList" HasUnevenRows="True">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <Grid>
+                <Grid.RowDefinitions>
+                  <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                  <ColumnDefinition Width="50*" />
+                  <ColumnDefinition Width="50*" />
+                  <ColumnDefinition Width="50*" />
+                  <ColumnDefinition Width="40*" />
+                  <ColumnDefinition Width="55*" />
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Text="{Binding Date}" />
+                <Label Grid.Column="1" Text="{Binding Meal}" />
+                <Label Grid.Column="2" Text="{Binding Rating}" /> <!-- Item ="{Binding ID}"-->
+                <Button CommandParameter ="{Binding ID}" Grid.Column="3" Text="Edit" TextColor="White" BackgroundColor="Green"  Clicked="ChangeReviews_Clicked"/>
+                <Button CommandParameter ="{Binding ID}" Grid.Column="4" Text="Delete" TextColor="White" BackgroundColor="Red"  Clicked="DeleteReviews_Clicked"/>
+                
+                </Grid>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

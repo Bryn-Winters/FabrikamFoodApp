@@ -1,11 +1,17 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp.windows\obj\debug\intermediatexaml\fabrikamfoodapp.windows.exe" HashGuid="8828263b-2ba9-4b03-c98e-aeae462503aa" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp\bin\debug\fabrikamfoodapp.dll" HashGuid="f021929d-2c3e-45fd-fd98-fb389e54deef" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="9b9da374-307d-5504-a527-efe9a46940ca" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp\bin\debug\fabrikamfoodapp.dll" HashGuid="337eb196-f8cc-520e-b320-83107a88113b" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.azure.mobile.client.3.0.3\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="b1dcaa97-cc41-a02d-c94f-f367893aa987" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.azure.mobile.client.3.0.3\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="ca4a9b71-1bae-b7c2-7659-e118514011db" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.core.dll" HashGuid="8fd6d715-5b1e-67fd-feee-b3bb9cc9acd7" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.maps.2.3.3.168\lib\win81\xamarin.forms.maps.dll" HashGuid="ed9c28df-835e-9228-f013-bb1216e25d67" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="6cda1a83-1d8e-d2d4-211d-d5f3a06554ab" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.xaml.dll" HashGuid="5a0f8f23-7317-5e4b-74d2-2bf18c289c53" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
