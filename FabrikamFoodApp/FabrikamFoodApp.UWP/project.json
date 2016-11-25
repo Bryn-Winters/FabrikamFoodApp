@@ -3,6 +3,7 @@
     "Microsoft.Azure.Mobile.Client": "3.0.3",
     "Microsoft.Bcl.Build": "1.0.14",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "Xam.Plugins.Settings": "2.5.1",
     "Xamarin.Forms": "2.2.0.45",
     "Xamarin.Forms.Maps": "2.3.3.168"
   },

@@ -20,12 +20,16 @@ namespace FabrikamFoodApp {
         private global::Xamarin.Forms.StackLayout layout;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button loginButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.ListView ReviewsList;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MainPage));
             layout = this.FindByName<global::Xamarin.Forms.StackLayout>("layout");
+            loginButton = this.FindByName<global::Xamarin.Forms.Button>("loginButton");
             ReviewsList = this.FindByName<global::Xamarin.Forms.ListView>("ReviewsList");
         }
     }

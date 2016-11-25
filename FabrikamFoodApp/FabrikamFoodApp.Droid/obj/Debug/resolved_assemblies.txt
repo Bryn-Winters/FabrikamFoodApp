@@ -4,6 +4,8 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.Ext.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Plugin.Settings.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Net.Http.Extensions.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -34,10 +36,10 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
-C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Reflection.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll

@@ -70,5 +70,9 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.xml
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Plugin.Settings.xml
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.xml
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\obj\iPhone\Debug\FabrikamFoodApp.iOS.exe.mdb
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.iOS\bin\iPhone\Debug\FabrikamFoodApp.iOS.exe.mdb

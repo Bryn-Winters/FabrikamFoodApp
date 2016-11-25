@@ -86,16 +86,6 @@ namespace FabrikamFoodApp
                 RatingPicker.Items.Add(Ratingtype);
             }
 
-
-            /*// Create BoxView for displaying picked Color
-            BoxView boxView = new BoxView
-            {
-                WidthRequest = 150,
-                HeightRequest = 150,
-                HorizontalOptions = LayoutOptions.Center,
-                VerticalOptions = LayoutOptions.CenterAndExpand
-            };*/
-
             picker.SelectedIndexChanged += (sender, args) =>
             {
                 dishName = picker.Items[picker.SelectedIndex];
@@ -106,27 +96,20 @@ namespace FabrikamFoodApp
                 RatingType = RatingPicker.Items[RatingPicker.SelectedIndex];
             };
 
-
-            // Accomodate iPhone status bar.
             this.Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 5);
-
 
             var reviewButton = new Button { Text = "Place Review!\nClick here." };
             reviewButton.Clicked += reviewButton_clicked;
 
-
-            //layout.Children.Add(listView);
             layout.Children.Add(header);
             layout.Children.Add(picker);
             layout.Children.Add(RatingPicker);
-            //layout.Children.Add(boxView);
             layout.Children.Add(reviewButton);
 
             Content = layout;
 
         }
-        //reviewButton.Clicked += delegate
-        //{
+
         private async void reviewButton_clicked(object sender, EventArgs e)
         {
 
@@ -158,17 +141,10 @@ namespace FabrikamFoodApp
             {
                 //errorLabel.Text = ex.Message;
             }
-            
+            //await Navigation.PopModalAsync();
             //reviewButton.Text = string.Format("Thanks! Review placed");
 
         }
-        /*private async void ViewTimeline_Clicked(Object sender, EventArgs e)
-        {
 
-            List<ReviewClass> reviews = await ReviewManager.ReviewManagerInstance.GetReviews();
-
-            TimelineList.ItemsSource = reviews;
-
-        }*/
     }
 }

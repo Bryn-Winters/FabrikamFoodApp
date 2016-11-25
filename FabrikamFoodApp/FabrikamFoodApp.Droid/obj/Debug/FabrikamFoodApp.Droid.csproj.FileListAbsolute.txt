@@ -91,5 +91,9 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\bin\Debug\Plugin.Settings.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\bin\Debug\Plugin.Settings.xml
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\obj\Debug\FabrikamFoodApp.Droid.dll.mdb
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.Droid\bin\Debug\FabrikamFoodApp.Droid.dll.mdb

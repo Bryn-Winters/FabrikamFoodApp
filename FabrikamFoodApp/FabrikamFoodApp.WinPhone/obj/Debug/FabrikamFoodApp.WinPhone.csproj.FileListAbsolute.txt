@@ -63,3 +63,7 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Xamarin.Forms.Maps.WinRT.Phone.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Xamarin.Forms.Maps.WinRT.Phone.pri
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\obj\Debug\Xamarin.Forms.Maps.WinRT.Phone.pri.xml
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Plugin.Settings.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Plugin.Settings.xml
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.WinPhone\bin\Debug\Plugin.Settings.Abstractions.xml

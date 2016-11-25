@@ -110,8 +110,6 @@ namespace FabrikamFoodApp
             var stack = new StackLayout { Spacing = 0 };
             stack.Children.Add(header);
             stack.Children.Add(map);
-            //stack.Children.Add(slider);
-            //stack.Children.Add(segments);
             Content = stack;
 
 

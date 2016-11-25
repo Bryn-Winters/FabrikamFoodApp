@@ -17,7 +17,7 @@ namespace FabrikamFoodApp
 
         private ReviewManager()
         {
-            this.client = new MobileServiceClient("http://fabrikamfoodsuk.azurewebsites.net");
+            this.client = new MobileServiceClient("https://fabrikamfoodsuk.azurewebsites.net");
             this.reviewsTable = this.client.GetTable<ReviewClass>();
         }
 

@@ -1,10 +1,12 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp.winphone\obj\debug\intermediatexaml\fabrikamfoodapp.winphone.exe" HashGuid="5ef32adb-cca1-2109-9114-80ac5e545bc2" />
-    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp\bin\debug\fabrikamfoodapp.dll" HashGuid="a4d08a19-c18a-8cb2-8b3b-8f1bd8dc2c75" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\fabrikamfoodapp\fabrikamfoodapp\bin\debug\fabrikamfoodapp.dll" HashGuid="64e1dac8-0d11-7970-a7e6-cde467ed3005" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.azure.mobile.client.3.0.3\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="b1dcaa97-cc41-a02d-c94f-f367893aa987" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.azure.mobile.client.3.0.3\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="37cc6169-576b-f3de-1e6a-600572f7c503" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xam.plugins.settings.2.5.1.0\lib\wpa81\plugin.settings.abstractions.dll" HashGuid="980b2971-f9fe-95cd-97df-1f782f505122" />
+    <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xam.plugins.settings.2.5.1.0\lib\wpa81\plugin.settings.dll" HashGuid="46503c50-0e56-9e2b-1865-407c69d010e7" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
     <ReferenceAssembly PathName="c:\users\bryn\documents\visual studio 2015\projects\fabrikamfoodapp\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.core.dll" HashGuid="8fd6d715-5b1e-67fd-feee-b3bb9cc9acd7" />

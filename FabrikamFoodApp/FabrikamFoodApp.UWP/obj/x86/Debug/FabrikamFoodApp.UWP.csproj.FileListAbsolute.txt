@@ -208,3 +208,5 @@ C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFood
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\bin\x86\Debug\Xamarin.Forms.Maps.UWP.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\bin\x86\Debug\Xamarin.Forms.Maps.dll
 C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\obj\x86\Debug\Xamarin.Forms.Maps.UWP.pri.xml
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\bin\x86\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Bryn\Documents\Visual Studio 2015\Projects\FabrikamFoodApp\FabrikamFoodApp\FabrikamFoodApp.UWP\bin\x86\Debug\Plugin.Settings.dll
