@@ -6,6 +6,7 @@
              Title="StackLayout Demo">
   <ContentPage.Content>
     <StackLayout Spacing="0" x:Name="layout">
+      <Label Text="Fabrikam Foods" TextColor="Blue"/>
       <Button x:Name="loginButton" Text="Sign-in with Facebook" MinimumHeightRequest="30"
    Clicked="loginButton_Clicked"/>
       <Button Text="Place a Review" VerticalOptions="Start"

@@ -622,3 +622,4 @@ namespace FabrikamFoodApp.WinPhone.FabrikamFoodApp_WinPhone_XamlTypeInfo
 }
 
 
+
